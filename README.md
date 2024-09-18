@@ -48,14 +48,16 @@ The following key parameters can be adjusted to observe their influence on the w
 
 The goal of this simulation is to:
 
-Calculate total energy production over the given time period (e.g., one year).
-Track daily maximum and minimum production levels.
-Measure maintenance costs and downtime due to turbine failures.
-Provide a flexible and modular framework for adjusting wind farm parameters.
+- Calculate total energy production over the given time period (e.g., one year).
+- Track daily maximum and minimum production levels.
+- Measure maintenance costs and downtime due to turbine failures.
+- Provide a flexible and modular framework for adjusting wind farm parameters.
 
 
 
 ## Future Improvements
-Add a graphical representation of production data over time.
-Extend the simulation to account for different weather patterns and seasonal variations in wind speed.
-Introduce variable maintenance costs depending on the severity or frequency of turbine failures.
+- Add a graphical representation of production data over time.
+- Extend the simulation to account for different weather patterns and seasonal variations in wind speed.
+- Introduce variable maintenance costs depending on the severity or frequency of turbine failures.
+
+
