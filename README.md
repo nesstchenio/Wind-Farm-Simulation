@@ -40,8 +40,8 @@ The following key parameters can be adjusted to observe their influence on the w
       [0.04 0.61 0.35]
 - Failure probability (p = 0.15) under strong wind.
 - Production levels for different wind speeds: [0, 0.4, 0.65] MW.
-- Maintenance duration: 3 days
-- Maintenance cost: 150 k€
+- Maintenance duration: 3 days.
+- Maintenance cost: 150 k€.
 
 ## Simulation Objectives
 
