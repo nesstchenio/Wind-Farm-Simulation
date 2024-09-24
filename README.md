@@ -4,6 +4,9 @@
 
 This project simulates the production of a wind farm under varying wind conditions. The aim is to model the behavior of wind turbines and their energy output, as well as account for potential malfunctions and maintenance costs due to high wind speeds. The simulation runs over a set time period (e.g., one year) and provides key results such as total energy production, daily output, and maintenance expenses.
 
+## Language
+Programming language : C.
+
 ## Features
 
 - **Wind Speed Modeling**: Wind speed varies daily and follows a predefined transition matrix. There are three wind speed states: no wind, medium wind, and strong wind.
